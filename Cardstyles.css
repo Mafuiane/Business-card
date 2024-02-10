@@ -1,0 +1,61 @@
+/* .red-circle {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background: #BC002D;
+    
+    margin: 40px auto;
+} */
+
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.luffy{
+    width:150px;
+}
+
+.cord {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+    background: rgb(247, 187, 197);
+    color: #2b2839 ;
+    border: 6px solid rgb(163, 163, 226)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
